@@ -1,5 +1,8 @@
 # Domain & Data
 
+Sustainable development?
+Local or global data?
+
 <!--
 
   an empty folder for your team to prepare the first phase of the project
