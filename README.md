@@ -13,7 +13,7 @@
 ## Domain & Data
 
 <!--
-https://en.wikipedia.org/wiki/Sustainable_Development_Goal_15 ?? WE NEED TO NARROW
+https://en.wikipedia.org/wiki/Sustainable_Development_Goal_15 ?? WE NEED TO NARROW ?
   - define domain of your project
   - how you modeled it
   - possible short-comings in your model
