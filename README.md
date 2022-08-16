@@ -10,7 +10,7 @@
   - call(s) to action
 -->
 
-## Domain & Data https://en.wikipedia.org/wiki/Sustainable_Development_Goal_15 ?? WE NEED TO NARROW ?
+## Domain & Data https://en.wikipedia.org/wiki/Sustainable_Development_Goals ?? WE NEED TO NARROW ?
 
 <!--
 https://en.wikipedia.org/wiki/Sustainable_Development_Goal_15 ?? WE NEED TO NARROW ?
