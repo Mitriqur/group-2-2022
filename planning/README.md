@@ -1,4 +1,5 @@
 # Planning
+August 20. First edit
 
 <!-- outline your project's big idea so everyone agrees:
 
