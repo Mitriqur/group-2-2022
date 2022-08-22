@@ -1,5 +1,7 @@
 # Planning
 
+UPDATE. Checking file edititng
+
 <!-- outline your project's big idea so everyone agrees:
 
   - What question(s) are you investigating?
