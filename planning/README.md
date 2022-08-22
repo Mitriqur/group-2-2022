@@ -1,5 +1,7 @@
 # Planning
 
+This is a planning README file. Out group had 3 meetings so far and we are working to norrow down our domain (in general - Sustainability 17 Goals)
+
 <!-- outline your project's big idea so everyone agrees:
 
   - What question(s) are you investigating?
