@@ -1,6 +1,6 @@
 # (project title)
 
-<!-- intro + motivation -->
+SDG-17/EDUCATION
 
 ## Overview
 
