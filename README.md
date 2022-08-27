@@ -3,6 +3,7 @@
 <!-- intro + motivation -->
 
 ## Overview
+OUR NEW TITLE
 
 <!--
   - question(s)
